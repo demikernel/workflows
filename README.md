@@ -1,5 +1,5 @@
-Workflow
-=========
+Workflows
+==========
 
 This repository hosts various scripts for the continuous integration
 framework of _Demikernel_.
